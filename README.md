@@ -174,4 +174,4 @@ This project is distributed under the **MIT License**. See `LICENSE` for details
 
 ## Contact
 
-Created by **Your Name**. For questions or issues, please open an issue on GitHub.
+Created by **Hernan Valle**. For questions or issues, please open an issue on GitHub.
